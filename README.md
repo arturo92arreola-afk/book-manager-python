@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema Biblioteca Python
 
 Proyecto desarrollado para practicar:
@@ -25,3 +26,7 @@ Proyecto desarrollado para practicar:
 - Flet
 - JSON
 - CSV
+=======
+# book-manager-python
+Práctica de gestor de libros
+>>>>>>> 090e3c14bba956b3478ecbbaad68f172c6851834
